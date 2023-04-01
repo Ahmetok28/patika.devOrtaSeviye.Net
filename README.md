@@ -1,1 +1,0 @@
-# patika.devOrtaSeviye.Net
