@@ -1,7 +1,7 @@
 --tabloyu oluturma 
 
 create table employee  (
-	id int Primary key,
+	id serial Primary key,
 	name varchar(50) not null,	
 	email varchar(100) ,
 	birthdate date
